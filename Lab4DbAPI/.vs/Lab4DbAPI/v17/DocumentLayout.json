@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|c:\\nulp\\year 3\\labs\\progs\\kpz\\lab4dbapi\\lab4dbapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|solutionrelative:lab4dbapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|c:\\nulp\\year 3\\labs\\progs\\kpz\\lab4dbapi\\lab4dbapi\\controllers\\materialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|solutionrelative:lab4dbapi\\controllers\\materialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|c:\\nulp\\year 3\\labs\\progs\\kpz\\lab4dbapi\\lab4dbapi\\automapper\\materialprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|solutionrelative:lab4dbapi\\automapper\\materialprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|c:\\nulp\\year 3\\labs\\progs\\kpz\\lab4dbapi\\lab4dbapi\\models\\dto\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|solutionrelative:lab4dbapi\\models\\dto\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|c:\\nulp\\year 3\\labs\\progs\\kpz\\lab4dbapi\\lab4dbapi\\models\\dto\\projectcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|solutionrelative:lab4dbapi\\models\\dto\\projectcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|c:\\nulp\\year 3\\labs\\progs\\kpz\\lab4dbapi\\lab4dbapi\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|solutionrelative:lab4dbapi\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|c:\\nulp\\year 3\\labs\\progs\\kpz\\lab4dbapi\\lab4dbapi\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|solutionrelative:lab4dbapi\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|c:\\nulp\\year 3\\labs\\progs\\kpz\\lab4dbapi\\lab4dbapi\\models\\tablecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|solutionrelative:lab4dbapi\\models\\tablecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|c:\\nulp\\year 3\\labs\\progs\\kpz\\lab4dbapi\\lab4dbapi\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|solutionrelative:lab4dbapi\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|c:\\nulp\\year 3\\labs\\progs\\kpz\\lab4dbapi\\lab4dbapi\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|solutionrelative:lab4dbapi\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|c:\\nulp\\year 3\\labs\\progs\\kpz\\lab4dbapi\\lab4dbapi\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|solutionrelative:lab4dbapi\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|c:\\nulp\\year 3\\labs\\progs\\kpz\\lab4dbapi\\lab4dbapi\\models\\dto\\suppliercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|solutionrelative:lab4dbapi\\models\\dto\\suppliercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|c:\\nulp\\year 3\\labs\\progs\\kpz\\lab4dbapi\\lab4dbapi\\models\\dto\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|solutionrelative:lab4dbapi\\models\\dto\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|c:\\nulp\\year 3\\labs\\progs\\kpz\\lab4dbapi\\lab4dbapi\\automapper\\projectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|solutionrelative:lab4dbapi\\automapper\\projectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|c:\\nulp\\year 3\\labs\\progs\\kpz\\lab4dbapi\\lab4dbapi\\models\\dto\\materialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7C35A0-E80B-4CDF-B9FC-C82A030987CD}|Lab4DbAPI\\Lab4DbAPI.csproj|solutionrelative:lab4dbapi\\models\\dto\\materialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 38,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaterialProfile.cs",
+              "DocumentMoniker": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\AutoMapper\\MaterialProfile.cs",
+              "RelativeDocumentMoniker": "Lab4DbAPI\\AutoMapper\\MaterialProfile.cs",
+              "ToolTip": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\AutoMapper\\MaterialProfile.cs",
+              "RelativeToolTip": "Lab4DbAPI\\AutoMapper\\MaterialProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:42:45.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaterialsController.cs",
+              "DocumentMoniker": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Controllers\\MaterialsController.cs",
+              "RelativeDocumentMoniker": "Lab4DbAPI\\Controllers\\MaterialsController.cs",
+              "ToolTip": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Controllers\\MaterialsController.cs",
+              "RelativeToolTip": "Lab4DbAPI\\Controllers\\MaterialsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:33:22.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "Lab4DbAPI\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "Lab4DbAPI\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowEAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:42:04.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Lab4DbAPI\\Models\\Project.cs",
+              "ToolTip": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Models\\Project.cs",
+              "RelativeToolTip": "Lab4DbAPI\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:22:43.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectCreateDTO.cs",
+              "DocumentMoniker": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Models\\DTO\\ProjectCreateDTO.cs",
+              "RelativeDocumentMoniker": "Lab4DbAPI\\Models\\DTO\\ProjectCreateDTO.cs",
+              "ToolTip": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Models\\DTO\\ProjectCreateDTO.cs",
+              "RelativeToolTip": "Lab4DbAPI\\Models\\DTO\\ProjectCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:37:21.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectDTO.cs",
+              "DocumentMoniker": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Models\\DTO\\ProjectDTO.cs",
+              "RelativeDocumentMoniker": "Lab4DbAPI\\Models\\DTO\\ProjectDTO.cs",
+              "ToolTip": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Models\\DTO\\ProjectDTO.cs",
+              "RelativeToolTip": "Lab4DbAPI\\Models\\DTO\\ProjectDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:43:15.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4DbAPI\\Program.cs",
+              "ToolTip": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Program.cs",
+              "RelativeToolTip": "Lab4DbAPI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:50:38.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TableContext.cs",
+              "DocumentMoniker": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Models\\TableContext.cs",
+              "RelativeDocumentMoniker": "Lab4DbAPI\\Models\\TableContext.cs",
+              "ToolTip": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Models\\TableContext.cs",
+              "RelativeToolTip": "Lab4DbAPI\\Models\\TableContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:22:35.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "Lab4DbAPI\\Models\\Supplier.cs",
+              "ToolTip": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Models\\Supplier.cs",
+              "RelativeToolTip": "Lab4DbAPI\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:28:55.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "Lab4DbAPI\\Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "Lab4DbAPI\\Controllers\\SuppliersController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:52:51.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SupplierDTO.cs",
+              "DocumentMoniker": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Models\\DTO\\SupplierDTO.cs",
+              "RelativeDocumentMoniker": "Lab4DbAPI\\Models\\DTO\\SupplierDTO.cs",
+              "ToolTip": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Models\\DTO\\SupplierDTO.cs",
+              "RelativeToolTip": "Lab4DbAPI\\Models\\DTO\\SupplierDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:43:14.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SupplierCreateDTO.cs",
+              "DocumentMoniker": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Models\\DTO\\SupplierCreateDTO.cs",
+              "RelativeDocumentMoniker": "Lab4DbAPI\\Models\\DTO\\SupplierCreateDTO.cs",
+              "ToolTip": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Models\\DTO\\SupplierCreateDTO.cs",
+              "RelativeToolTip": "Lab4DbAPI\\Models\\DTO\\SupplierCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:38:59.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Models\\Material.cs",
+              "RelativeDocumentMoniker": "Lab4DbAPI\\Models\\Material.cs",
+              "ToolTip": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Models\\Material.cs",
+              "RelativeToolTip": "Lab4DbAPI\\Models\\Material.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:32:16.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjectProfile.cs",
+              "DocumentMoniker": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\AutoMapper\\ProjectProfile.cs",
+              "RelativeDocumentMoniker": "Lab4DbAPI\\AutoMapper\\ProjectProfile.cs",
+              "ToolTip": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\AutoMapper\\ProjectProfile.cs",
+              "RelativeToolTip": "Lab4DbAPI\\AutoMapper\\ProjectProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:43:38.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MaterialDTO.cs",
+              "DocumentMoniker": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Models\\DTO\\MaterialDTO.cs",
+              "RelativeDocumentMoniker": "Lab4DbAPI\\Models\\DTO\\MaterialDTO.cs",
+              "ToolTip": "C:\\NULP\\Year 3\\Labs\\Progs\\KPZ\\Lab4DbAPI\\Lab4DbAPI\\Models\\DTO\\MaterialDTO.cs",
+              "RelativeToolTip": "Lab4DbAPI\\Models\\DTO\\MaterialDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:32:42.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
